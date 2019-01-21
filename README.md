@@ -1,9 +1,6 @@
 # Continuous Delivery with Spinnaker and Kubernetes
 
 
-ss
-
-
 | Test          |   Result      |
 | ------------- |---------------|
 | Tutorial      | ![badge](https://concourse.dev.vicnastea.io/api/v1/teams/main/pipelines/gke-info-post-submit/jobs/test-tutorial/badge) |
